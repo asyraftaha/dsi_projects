@@ -1,8 +1,8 @@
-# @SGCARPRICE
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) @SGCARPRICE
 
 ## Project Overview
-![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
+![](https://github.com/asyraftaha/dsiprojects/sgcarprice/images/selling_process.jpg)
 <img src="./images/selling_process.jpg" alt="drawing" width="900"/>
 
 Selling a car can be a stressful situation for car owners. Not knowing the market price of their vehicles leave them comparing quotes between dealers and figuring out to sell the car directly. Not knowing the price of their vehicle can leave them vulnerable to being "under-quoted" by car agencies.
